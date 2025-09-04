@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Codebase Journal](https://i.postimg.cc/nLMsxYSf/Codebase-Journal-banner-V1.png)](https://www.nathanmwai.com)
 <!--
 **CodebaseJournal/CodebaseJournal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
